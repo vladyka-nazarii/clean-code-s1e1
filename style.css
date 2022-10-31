@@ -21,7 +21,7 @@
 
   .top-section { text-align: center;
   }
-  
+
 }
 .main-section {
   display: block;
@@ -41,10 +41,10 @@
   padding: 0px;
 }
 .task-item, .title {
-  list-style:none;
+  list-style: none;
 }
 .new-input, .text-input, .task-checkbox,.add, .edit, .delete {
-  outline:none;
+  outline: none;
 }
 .add, .edit, .delete {
   background: none;
@@ -137,14 +137,14 @@
 
 /* Edit Task */
 .tasks-list .task-item .text-input {
-  display:none
+  display: none
 }
 
 .tasks-list .edit-mode .text-input {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .tasks-list .edit-mode .label {
-  display:none;
+  display: none;
 }
