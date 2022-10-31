@@ -40,13 +40,21 @@
   margin:0;
   padding: 0px;
 }
-.task-item, .title {
+.task-item,
+.title {
   list-style: none;
 }
-.new-input, .text-input, .task-checkbox,.add, .edit, .delete {
+.new-input,
+.text-input,
+.task-checkbox,
+.add,
+.edit,
+.delete {
   outline: none;
 }
-.add, .edit, .delete {
+.add,
+.edit,
+.delete {
   background: none;
   border: 0px;
   color: #888;
@@ -55,7 +63,9 @@
   font-family: Lato, sans-serif;
   cursor: pointer;
 }
-.add:hover, .edit:hover, .delete:hover {
+.add:hover,
+.edit:hover,
+.delete:hover {
   color: #3a3A3a;
 }
 /* Heading */
